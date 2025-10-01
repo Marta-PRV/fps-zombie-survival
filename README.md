@@ -8,7 +8,7 @@ Este proyecto fue desarrollado como trabajo académico, pero supuso mi primer co
 ---
 
 ## Gameplay
-📹 Mira el vídeo del prototipo: [Zombie Survival FPS Demo]()  
+📹 Mira el vídeo del prototipo: [Zombie Survival FPS Demo](https://youtu.be/VqEWWKMhXMA)  
 
 Características principales:
 - **IA básica de zombis**: detectan y persiguen al jugador hasta atacarlo.  
