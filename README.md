@@ -1,4 +1,4 @@
-# Zombie Survival FPS – Unity Project  
+# 🧟 Zombie Survival FPS – Unity Project  
 
 Un **prototipo de shooter en primera persona** ambientado en un mundo posapocalíptico.  
 El jugador debe resistir oleadas infinitas de zombis mientras gestiona recursos limitados y toma decisiones estratégicas en una **economía in-game**.  
