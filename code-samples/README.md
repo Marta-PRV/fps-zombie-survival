@@ -31,17 +31,3 @@ Cada script resalta una parte distinta del desarrollo: IA, gameplay, UI, econom�
 ## 🛒 ShopManager.cs
 - **Tienda in-game**: permite comprar vida, munición y desbloquear armas.
 - Control del tiempo (`Time.timeScale`) y del cursor en menús.
-
----
-
-## ❤️ DamageOverlay.cs
-- Feedback visual cuando el jugador recibe daño.
-- Implementación con doble overlay y fade para una experiencia más inmersiva.
-
----
-
-## ⏳ LoadingScreen.cs
-- **Pantalla de carga asíncrona** con barra de progreso.
-- Uso de `AsyncOperation` y corutinas para controlar la transición entre escenas.
-
----
